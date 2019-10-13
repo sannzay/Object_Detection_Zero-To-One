@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cars_100</folder>
+	<filename>00025.jpg</filename>
+	<path>/home/convo/code/dataset/Cars_100/00025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1333</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>299</ymin>
+			<xmax>1297</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>
