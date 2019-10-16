@@ -3,6 +3,7 @@
 ## Requirements:
 
 1. This project is supposed to be run in a docker with tensorflow-serving setup in it.
+   (To save the trouble, you can pull my docker container with all requirements installed: sannzay/tf_serve:version4)
 2. tensorflow (both in docker and local)
 3. utils (both in docker and local)
 4. grpcio (only in local)
